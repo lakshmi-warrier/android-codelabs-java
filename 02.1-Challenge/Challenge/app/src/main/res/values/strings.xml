@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">3 activities</string>
+    <string name="para_3">3</string>
+    <string name="para_1">1</string>
+    <string name="para_2">2</string>
+    <string name="pg1">You are viewing Page 1</string>
+    <string name="pg2">You are viewing Page 2</string>
+    <string name="pg3">You are viewing Page 3</string>
+
+
+</resources>
