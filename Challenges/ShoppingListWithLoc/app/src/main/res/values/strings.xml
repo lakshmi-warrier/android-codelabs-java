@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shopping List with Location</string>
+    <string name="cheese">Cheese</string>
+    <string name="rice">Rice</string>
+    <string name="apples">apples</string>
+    <string name="tomato">tomato</string>
+    <string name="milk">milk</string>
+    <string name="flour">flour</string>
+    <string name="chocolate">chocolate</string>
+    <string name="mayo">mayo</string>
+    <string name="olive">olive</string>
+    <string name="bread">bread</string>
+    <string name="add_item">ADD ITEM</string>
+    <string name="pick_up">PICK UP</string>
+    <string name="enter_store_address">Enter store address</string>
+</resources>
