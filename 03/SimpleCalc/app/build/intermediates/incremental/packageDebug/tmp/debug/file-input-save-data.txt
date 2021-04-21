@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Apr 19 14:37:08 IST 2021
+0.baseType=DIRECTORY
+0.base=D\:\\android-codelabs-java\\03\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
